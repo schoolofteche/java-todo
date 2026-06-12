@@ -4,3 +4,4 @@ Official repo for the "To Do List" project using Java, Spark, Handlebars etc for
 Each branch contains a new "Step" of code. Please fork, then clone.
 
 This is a test text to see if the github hook works as expected
+I can confirm the trigger is working.
